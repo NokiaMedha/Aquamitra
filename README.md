@@ -40,3 +40,9 @@ A smart water system using Arduino designed specifically for rural india ,that e
 ## 🧩 PCB Files
 
 The Gerber files required for PCB fabrication are available in the `pcb/` folder.
+
+## 🧱 3D Model
+
+The enclosure for this project is available as a 3D printable STL file in the `3d-model/` folder.
+
+
