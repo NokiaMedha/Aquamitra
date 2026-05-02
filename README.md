@@ -26,10 +26,17 @@ A smart water system using Arduino designed specifically for rural india ,that e
 * The fetched quantity is deducted from the total quota of the card
 
 ## 📸 Project Images
-  # 🔧 Setup
-  ![workflow](images/workflow.jpg)
-  # 💡 Output
-   ![final_product](images/final_product.jpg)
-  # 💡 Output
-   ![Deployment](images/deployment.jpg)
 
+### 🔧 Setup
+![Setup](images/workflow.png)
+
+### 💡 Output
+![Output](images/final_product.jpeg)
+
+### 🚀 Deployment
+![Deployment](images/deployment.png)
+
+
+## 🧩 PCB Files
+
+The Gerber files required for PCB fabrication are available in the `pcb/` folder.
