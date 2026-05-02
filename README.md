@@ -33,7 +33,3 @@ A smart water system using Arduino designed specifically for rural india ,that e
   # 💡 Output
    ![Deployment](images/deployment.jpg)
 
-## 🔮 Future Improvements
-
-* IoT integration
-* Mobile app monitoring
